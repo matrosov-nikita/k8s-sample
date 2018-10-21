@@ -1,0 +1,7 @@
+# Frontend ignored files
+node_modules/
+**/frontend/build/
+
+# IDE ignored files
+.idea/
+*.iml
